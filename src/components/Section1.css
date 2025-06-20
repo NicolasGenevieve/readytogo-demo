@@ -1,0 +1,10 @@
+.section1 {
+  /* border: 3px green solid; */
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  padding-left: 100px;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+}
